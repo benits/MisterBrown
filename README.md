@@ -38,10 +38,6 @@ including Chrome 25+, Opera 27+, Samsung Internet, QQ Browser and Baidu Browser.
     <img alt="Screen_1" title="Screen_1" src="https://github.com/benits/MisterBrown/blob/master/public/images/Screen_1.PNG" width="500px" />
 </h1>
 
-<h1 align="center">
-    <img alt="Screen_2" title="Screen_2" src="https://github.com/benits/MisterBrown/blob/master/public/images/screen_2.PNG" width="500px" />
-</h1>
-
 This is how this web application works:
 
 - Using a SpeechRecognition interface from the Web Speech API to hear your voice through a microphone

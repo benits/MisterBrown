@@ -37,6 +37,7 @@ including Chrome 25+, Opera 27+, Samsung Internet, QQ Browser and Baidu Browser.
 <h4 align="center">
     <img alt="Screen_1" title="Screen_1" src="https://github.com/benits/MisterBrown/blob/master/public/images/Screen_1.PNG" width="500px" />
 </h4>
+
 <h4 align="center">
     <img alt="Screen_2" title="Screen_2" src="https://github.com/benits/MisterBrown/blob/master/public/images/screen_2.PNG" width="500px" />
 </h4>

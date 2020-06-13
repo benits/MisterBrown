@@ -34,12 +34,12 @@ the Mister Brown was developed, with the idea of ​​being used to practice co
 This demo uses an experimental web speech API, which is currently supported only by browsers created in Blink,
 including Chrome 25+, Opera 27+, Samsung Internet, QQ Browser and Baidu Browser.
 
-<h1 align="center">
+<h4 align="center">
     <img alt="Screen_1" title="Screen_1" src="https://github.com/benits/MisterBrown/blob/master/public/images/Screen_1.PNG" width="500px" />
-</h1>
-<h1 align="center">
+</h4>
+<h4 align="center">
     <img alt="Screen_2" title="Screen_2" src="https://github.com/benits/MisterBrown/blob/master/public/images/screen_2.PNG" width="500px" />
-</h1>
+</h4>
 
 This is how this web application works:
 

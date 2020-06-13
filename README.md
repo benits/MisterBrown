@@ -1,4 +1,3 @@
-
 <h1 align="center"> 
 	:construction: BOT - MisterBrown 🚀 in progress.. :construction:
 </h1>
@@ -28,8 +27,9 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :information_source:  BOT MisterBrown?
-or Mister Brown was developed, with the idea of ​​being used to practice conversational English.
+## :information_source: BOT MisterBrown?
+
+the Mister Brown was developed, with the idea of ​​being used to practice conversational English.
 
 This demo uses an experimental web speech API, which is currently supported only by browsers created in Blink,
 including Chrome 25+, Opera 27+, Samsung Internet, QQ Browser and Baidu Browser.
@@ -42,8 +42,7 @@ This is how this web application works:
 - Send your message to API.ai (a natural language processing platform) as a text string
 - After the API.ai AI returns the response text, use the SpeechSynthesis interface to obtain a synthetic voice.
 
-
-## :rocket:  Technologies
+## :rocket: Technologies
 
 This project was developed with the following technologies:
 
@@ -56,7 +55,7 @@ This project was developed with the following technologies:
 - [Socket.io](https://socket.io/get-started/chat/)
 - [NodeJs][nodejs]
 
-## :information_source:  How To Use
+## :information_source: How To Use
 
 To clone and run this application, you'll need [Git][git], [NodeJs][nodejs] installed on your computer.
 
@@ -70,12 +69,12 @@ APIAI_SESSION_ID=some_unique_session_id
 The first one is an API.ai API key (Please get one by sign up with [API.ai](https://api.ai)), and the second one is a session ID,
 which is an arbitrary string (we could make this unique within the app, but that's beyond the scope of this demo).
 
-Or use this Heroku button to deploy to Heroku server. You just need to fill out the env vars with the API key and a session ID. 
+Or use this Heroku button to deploy to Heroku server. You just need to fill out the env vars with the API key and a session ID.
 No need to create an `.env` file.
 
 Then from your command line:
 
-### Install 
+### Install
 
 ```bash
 # Clone this repository
@@ -85,9 +84,9 @@ $ git clone https://github.com/benits/papode.dev.git
 $ cd MisterBrown
 
 # Install dependencies
-$ npm install 
+$ npm install
 
-# Start 
+# Start
 $ yarn start ou  npm start
 
 # running on port 5000
@@ -95,11 +94,9 @@ $ yarn start ou  npm start
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/benits/MisterBrown)
 
-
 ## :memo: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/benits/MisterBrown/blob/master/LICENSE) for details.
-
 
 Made with ♥ by Matheus Benites :wave: [Get in touch!](https://www.linkedin.com/in/benites-amorim/)
 

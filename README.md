@@ -28,7 +28,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :information_source: BOT MisterBrown?
+## :information_source:  BOT MisterBrown?
 or Mister Brown was developed, with the idea of ​​being used to practice conversational English.
 
 This demo uses an experimental web speech API, which is currently supported only by browsers created in Blink,
@@ -43,7 +43,7 @@ This is how this web application works:
 - After the API.ai AI returns the response text, use the SpeechSynthesis interface to obtain a synthetic voice.
 
 
-## :rocket: Technologies
+## :rocket:  Technologies
 
 This project was developed with the following technologies:
 
@@ -56,7 +56,7 @@ This project was developed with the following technologies:
 - [Socket.io](https://socket.io/get-started/chat/)
 - [NodeJs][nodejs]
 
-## :information_source: How To Use
+## :information_source:  How To Use
 
 To clone and run this application, you'll need [Git][git], [NodeJs][nodejs] installed on your computer.
 

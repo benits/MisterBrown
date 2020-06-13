@@ -1,6 +1,6 @@
-<h1 align="center"> 
+<h2 align="center"> 
 	:construction: BOT - MisterBrown 🚀 in progress.. :construction:
-</h1>
+</h2>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/benits/MisterBrown?color=%2304D361">
 
@@ -27,15 +27,15 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :information_source: BOT MisterBrown?
+## :information_source: MisterBrown BOT?
 
-the Mister Brown was developed, with the idea of ​​being used to practice conversational English.
+the Mister Brown was developed, with the idea of being used to practice conversational English.
 
 This demo uses an experimental web speech API, which is currently supported only by browsers created in Blink,
 including Chrome 25+, Opera 27+, Samsung Internet, QQ Browser and Baidu Browser.
 
 <h1 align="center">
-    <img alt="Screen_1" title="Screen_1" src="https://github.com/benits/MisterBrown/blob/master/public/images/Screen_1.PNG" width="500px" />
+    <img alt="Screen_1" title="Screen_1" src="https://github.com/benits/MisterBrown/blob/master/public/images/Screen_1.PNG"  />
 </h1>
 
 This is how this web application works:
